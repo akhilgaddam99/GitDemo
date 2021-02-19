@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-03T13:26:23 IST" name="All Test Suite" finished-at="2021-02-03T13:26:23 IST" duration-ms="197">
+    <groups>
+    </groups>
+    <test started-at="2021-02-03T13:26:23 IST" name="C:/Users/akhil/IdeaProjects/maven" finished-at="2021-02-03T13:26:23 IST" duration-ms="197">
+      <class name="DemoTest">
+        <test-method signature="test1()[pri:0, instance:DemoTest@4c15e7fd]" started-at="2021-02-03T13:26:23 IST" name="test1" finished-at="2021-02-03T13:26:23 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- DemoTest -->
+    </test> <!-- C:/Users/akhil/IdeaProjects/maven -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
